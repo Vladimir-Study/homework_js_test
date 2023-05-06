@@ -1,5 +1,5 @@
 image: Ubuntu
-stack: node 9
+stack: node 18.16
 branches:
   only:
    - main
