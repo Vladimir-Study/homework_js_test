@@ -21,8 +21,8 @@ const heroesOutput = [
 ];
 const heroesOutputTwo = [
   { name: 'маг', health: 100 },
-  { name: 'лучник', health: 10 },
   { name: 'мечник', health: 10 },
+  { name: 'лучник', health: 10 },
 ];
 
 test('test health level critical', () => {
